@@ -6,4 +6,5 @@ import com.dbbyte.model.Shipwreck;
 
 public interface ShipwreckRepository extends JpaRepository<Shipwreck, Long> {
 
+
 }
